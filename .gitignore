@@ -1,1 +1,4 @@
-AIML Dataset.csv
+git add .gitignore
+git commit -m "Add AIML Dataset.csv to .gitignore"
+git push origin master
+
